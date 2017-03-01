@@ -1,0 +1,3 @@
+rootProject.name = 'iosSpeechToText'
+
+include ':app'
